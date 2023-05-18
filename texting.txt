@@ -1,11 +1,17 @@
 New file for executions
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 84eb914 (apple)
 new commit
 one more new commit
 =======
 
 >>>>>>> parent of 92aff0d (new commit 17.05.23)
+<<<<<<< HEAD
 >>>>>>> 84eb914eeb4214d7a982891dcbe8debe84d044a4
+=======
+>>>>>>> 84eb914 (apple)

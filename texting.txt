@@ -1,3 +1,7 @@
 New file for executions
+<<<<<<< HEAD
 new commit
 one more new commit
+=======
+
+>>>>>>> parent of 92aff0d (new commit 17.05.23)
